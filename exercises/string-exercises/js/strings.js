@@ -27,6 +27,7 @@ class StringFunctions {
    * words('hello world') // ['hello', 'world']
    */
   split(input) {
-    return [input];
+    let arr = input.trim().split(" ");
+    return arr;
   }
 }
