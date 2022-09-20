@@ -16,6 +16,6 @@ how many points out of 20 do you deserve on this assignment: 16/20 since it was 
 
 ## Self-Reflection:
 <!-- What did you learn that you found interesting -->
-
+I found the exercises helpful to learn DOM manipulation. The videos helped me out a lot to understand the properties and methods.
 ### How long it took you to finish this?
 It look me 2 hours to complete this lab
